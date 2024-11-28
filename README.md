@@ -104,3 +104,24 @@ python test.py ${CONFIG_FILE} ${CHECKPOINT_FILE} [optional arguments]
 | FTransUNet       | 2024 | 70     | 203       | 20.7     | 75.72         | 87.64     | 54.47         |
 | **ASANet(ours)** |      | **25** | **82**    | **48.7** | **78.31**     | **94.48** | **56.11**     |
 
+
+
+## Citation
+
+If you use ASANet in your research, please cite the following paper:
+
+```text
+@article{ZHANG2024574,
+    title = {ASANet: Asymmetric Semantic Aligning Network for RGB and SAR image land cover classification},
+    journal = {ISPRS Journal of Photogrammetry and Remote Sensing},
+    volume = {218},
+    pages = {574-587},
+    year = {2024},
+    issn = {0924-2716},
+    doi = {https://doi.org/10.1016/j.isprsjprs.2024.09.025},
+    url = {https://www.sciencedirect.com/science/article/pii/S0924271624003630},
+    author = {Pan Zhang and Baochai Peng and Chaoran Lu and Quanjin Huang and Dongsheng Liu},
+    keywords = {Land cover classification, Multimodal, Semantic segmentation, Feature interaction}
+}
+```
+
