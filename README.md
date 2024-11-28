@@ -125,3 +125,9 @@ If you use ASANet in your research, please cite the following paper:
 }
 ```
 
+## License
+
+This code is released under the [Apache License 2.0](https://github.com/whu-pzhang/ASANet/blob/main/LICENSE).
+
+Copyright (c) Pan Zhang. All rights reserved.
+
