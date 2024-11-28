@@ -4,7 +4,7 @@
 
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/whu-pzhang/ASANet/master/ASANet_arch.jpg"><br><br>
+  <img src="https://raw.githubusercontent.com/whu-pzhang/ASANet/main/assets/ASANet_arch.jpg"><br><br>
 </div>
 
 
